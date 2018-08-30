@@ -49,15 +49,21 @@ h2 {
 	width: 50%;
 }
 
-.overlay-text {
-	float: right;
-	width: 60%;
-}
-
 .numbering {
 	width: 100%;
   margin: auto;
-  padding: 10%;
+}
+
+/*@media screen and (min-width: 601px) {
+  .numbering {
+    font-size: 1em;
+  }
+}*/
+
+@media screen and (max-width: 600px) {
+  .numbering {
+    font-size: 0.7em;
+  }
 }
 
 .numbering h5 {
