@@ -131,10 +131,12 @@ h2 {
 }
 
 #mc-embedded-subscribe {
-  display:none;
+  display:flex;
+  justify-content: center;
 }
 
-#mc_embed_signup {
+#mc_embed_signup input {
   border: none;
   border-radius: 30px;
 }
+
