@@ -131,8 +131,7 @@ h2 {
 }
 
 #mc-embedded-subscribe {
-  display:flex;
-  align-items: center;
+  display: inherit;
 }
 
 #mc_embed_signup input {
@@ -141,5 +140,5 @@ h2 {
 }
 
 #mc_embed_signup h2 {
-  2.5em;
+  font-size: 2.5em;
 }
