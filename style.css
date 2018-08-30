@@ -131,7 +131,7 @@ h2 {
 }
 
 #mc-embedded-subscribe {
-    display: flex;
+    margin: 0 auto;
 }	
 
 #mc_embed_signup input {
