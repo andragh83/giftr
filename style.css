@@ -130,11 +130,11 @@ h2 {
   border-bottom-left-radius:0;
 }
 
-.card-footer {
-  display: flex !important;
-  justify-content: center !important ; 
-  align-items: center;
-}
+.card {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-direction: column !important;
+}	
 
 #mc_embed_signup input {
   border: 1px solid #e3e3e3;
