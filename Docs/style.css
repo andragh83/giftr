@@ -130,11 +130,9 @@ h2 {
   border-bottom-left-radius:0;
 }
 
-.card {
-    display: -ms-flexbox !important;
-    display: flex !important;
-    -ms-flex-direction: column !important;
-}	
+#mc-embedded-subscribe {
+    margin: 0 auto;
+}
 
 #mc_embed_signup input {
   border: 1px solid #e3e3e3;
