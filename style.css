@@ -54,6 +54,12 @@ h2 {
   margin: auto;
 }
 
+@media screen and (max-width: 600px) {
+  .numbering {
+    font-size: 0.7em;
+  }
+}
+
 .numbering h5 {
   border-top: 5px solid;
   border-color: #2ca8ff;
