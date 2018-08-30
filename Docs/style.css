@@ -129,3 +129,12 @@ h2 {
   border-bottom-right-radius:0;
   border-bottom-left-radius:0;
 }
+
+#mc-embedded-subscribe {
+  display:none;
+}
+
+#mc_embed_signup {
+  border: none;
+  border-radius: 30px;
+}
