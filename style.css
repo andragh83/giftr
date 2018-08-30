@@ -132,7 +132,7 @@ h2 {
 
 #mc-embedded-subscribe {
   display:flex;
-  justify-content: center;
+  align-items: center;
 }
 
 #mc_embed_signup input {
