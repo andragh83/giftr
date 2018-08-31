@@ -1,17 +1,17 @@
 h2 {
-	font-family: 'Pacifico', cursive;
+  font-family: 'Pacifico', cursive;
 }
 
 .signupform {
-	margin-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .birthday {
-	border-radius: 15px;
-	border: 1px solid #e3e3e3;
-	text-align: center;
-	font-size: .8571em;
-	color: #2c2c2c;
+  border-radius: 15px;
+  border: 1px solid #e3e3e3;
+  text-align: center;
+  font-size: .8571em;
+  color: #2c2c2c;
 }
 
 .index-page .page-header .container .content-center {
@@ -32,33 +32,27 @@ h2 {
 }
 
 .n-logo {
-	height: 70px;
-	margin-bottom: 30px;
-	opacity: 0.8;
+  height: 70px;
+  margin-bottom: 30px;
+  opacity: 0.8;
 }
 
 .giftr-logo {
-	transition: all 1s;
+  transition: all 1s;
 }
 
 .giftr-logo:hover {
-	transform: scale(1.2);
+  transform: scale(1.2);
 }
 
 .section-basic .container {
-	width: 50%;
+  width: 50%;
 }
 
 .numbering {
-	width: 100%;
+  width: 100%;
   margin: auto;
 }
-
-/*@media screen and (min-width: 601px) {
-  .numbering {
-    font-size: 1em;
-  }
-}*/
 
 @media screen and (max-width: 600px) {
   .numbering {
@@ -100,7 +94,7 @@ h2 {
   padding: 10px;
   height: 50px;
   width: 50px;
-  background-color: #2ca8ff;	;
+  background-color: #2ca8ff;  ;
   text-align:center;
   color: white;
   font-size: 110%;
@@ -158,7 +152,7 @@ h2 {
 
 #mc-embedded-subscribe {
     margin: 0 auto;
-}	
+} 
 
 #mc_embed_signup input {
   border: 1px solid #e3e3e3;
